@@ -16,3 +16,4 @@ com.worksap.nlp.elasticsearch.sudachi.index.SudachiBaseFormFilterFactory
 com.worksap.nlp.elasticsearch.sudachi.index.SudachiPartOfSpeechStopFilterFactory
 com.worksap.nlp.elasticsearch.sudachi.index.SudachiReadingFormFilterFactory
 com.worksap.nlp.elasticsearch.sudachi.index.SudachiStopTokenFilterFactory
+com.worksap.nlp.elasticsearch.sudachi.index.SudachiCompletionFilterFactory
